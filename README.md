@@ -4,9 +4,11 @@
 ![Capture d'écran 2024-04-13 223248](https://github.com/detrax07/Webhook-tool-by-detrax/assets/87242613/fce8e943-3eac-41d8-b6c7-23f89f0d7246)
 
 A simple webhook tool coded with python.
+
 #Linux
 
 git clone https://github.com/detrax07/Webhook-tool-by-detrax
+
 pip install -r requirements.txt
 
 #Windows
