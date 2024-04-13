@@ -13,3 +13,5 @@ pip install -r requirements.txt
 
 py -m pip install -r requirements.txt
 
+if you need any help, any question, any request, please add me on discord: chahine07.
+
